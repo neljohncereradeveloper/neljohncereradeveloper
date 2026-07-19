@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi
 
 **Full-Stack & Backend Engineer** · Building scalable server-side systems
 
